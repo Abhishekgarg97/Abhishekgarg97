@@ -1,4 +1,4 @@
-### Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) 👋<img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+### Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) 👋<img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat">
 
 
 <p>
