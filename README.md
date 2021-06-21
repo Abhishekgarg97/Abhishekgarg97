@@ -1,5 +1,5 @@
 ### Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) 👋<img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat">
-
+## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p>
 <a href="https://twitter.com/abhigarg1997">
@@ -17,6 +17,10 @@
 <a href="https://www.linkedin.com/in/abhishek-garg1997/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:abhishekgarg1218@gmail.com"">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=youtube&logoColor=white%22 />
+</a>
+
 <p/>
 
 <br/>
