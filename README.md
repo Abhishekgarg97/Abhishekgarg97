@@ -26,7 +26,7 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on[Node.js](https://github.com/Abhishekgarg97/crudapiforemp_js)
+- 🔭 I’m currently working on [Node.js](https://github.com/Abhishekgarg97/crudapiforemp_js)
 - 🌱 I’m currently learning Javascript  and Python
 - 💬 Ask me about HTMl, javascript,CSS and Django
 - 📫 How to reach me:[@Abhishek Garg](https://iamabhishekgarg.tech/)
@@ -44,17 +44,8 @@
 
 <table >
 	<tr align="center">
-		<td>
-			<img src="/github/icons/typescript.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/react.png" width="60"/>
-		</td>
 		<td >
 			<img src="/github/icons/nodejs.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/nextjs.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/github/icons/expressjs.png" width="60"/>
@@ -62,18 +53,12 @@
 		<td >
 			<img src="/github/icons/bash.svg" width="60"/>
 		</td>
-		<td >
-			<img src="/github/icons/framer.png" width="60"/>
-		</td>
 	</tr>
 	<tr align="center">
-		<td>TypeScript</td>
-		<td>React</td>
 		<td>Node.js</td>
 		<td>Next.js</td>
 		<td>Express.js</td>
 		<td>Bash</td>
-		<td>Framer Motion</td>
 	</tr>
 </table>
 <table >
