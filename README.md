@@ -9,16 +9,16 @@
 <a href="https://studio.youtube.com/channel/UC2YVg0Je4e-YQRz5Gq4m7Mg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">
    <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+<!-- 
 <a href="">
    <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-
+ -->
 <a href="https://www.linkedin.com/in/abhishek-garg1997/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:abhishekgarg1218@gmail.com"">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=youtube&logoColor=white%22 />
+   <img align="left" alt="gmail" src=https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white%22/>
 </a>
 
 <p/>
