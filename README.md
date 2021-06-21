@@ -31,11 +31,85 @@
 
 ![Abhishek Garg Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhishekgarg97&show_icons=true&include_all_commits=true&theme=radical)
 
-![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhishekgarg97&layout=compact&theme=radical)
+![Abhishek Garg Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhishekgarg97&layout=compact&theme=radical)
 
-![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishekgarg97&theme=dracula)
+![Abhishek Garg github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishekgarg97&theme=dracula)
 
 # Blog posts
+## Technologies I have used
+
+<table >
+	<tr align="center">
+		<td>
+			<img src="/github/icons/typescript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/react.png" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/nodejs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/nextjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/expressjs.png" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/bash.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/framer.png" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>TypeScript</td>
+		<td>React</td>
+		<td>Node.js</td>
+		<td>Next.js</td>
+		<td>Express.js</td>
+		<td>Bash</td>
+		<td>Framer Motion</td>
+	</tr>
+</table>
+<table >
+	<tr align="center">
+		<td>
+			<img src="/github/icons/materialui.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/bootstrap.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/vercel.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/socketio.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/s3.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/github/icons/mongodb.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Material-UI</td>
+		<td>Bootstrap</td>
+		<td>Vercel</td>
+		<td>Socket.IO</td>
+		<td>Redux</td>
+		<td>AWS S3</td>
+		<td>MongoDB</td>
+	</tr>
+</table>
+
+---
+
+## <img src="/github/code.gif" width="32" align="left"> See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
 
 # Recent GitHub Activity
 
