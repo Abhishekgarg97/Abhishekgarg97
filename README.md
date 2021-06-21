@@ -70,15 +70,6 @@
 			<img src="/github/icons/bootstrap.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/github/icons/vercel.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/socketio.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/redux.svg" width="60"/>
-		</td>
-		<td >
 			<img src="/github/icons/s3.svg" width="60"/>
 		</td>
 		<td >
@@ -88,9 +79,6 @@
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
-		<td>Vercel</td>
-		<td>Socket.IO</td>
-		<td>Redux</td>
 		<td>AWS S3</td>
 		<td>MongoDB</td>
 	</tr>
@@ -99,14 +87,6 @@
 ---
 
 ## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.tech/#portfolio)
-## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 # Recent GitHub Activity
 
