@@ -109,7 +109,15 @@
 
 ---
 
-## <img src="/github/code.gif" width="32" align="left"> See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
+## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.tech/#portfolio)
+## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 # Recent GitHub Activity
 
