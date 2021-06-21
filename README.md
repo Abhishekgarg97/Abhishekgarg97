@@ -1,5 +1,5 @@
 ### Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) 👋<img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat">
-## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+## <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p>
 <a href="https://twitter.com/abhigarg1997">
