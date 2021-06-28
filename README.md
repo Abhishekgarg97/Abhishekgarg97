@@ -87,13 +87,3 @@
 ---
 
 ## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.tech/#portfolio)
-
-# Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR[#14](https://github.com/Abhishekgarg97/crudapiforemp_js) in[/crudapiforemp_js](https://github.com/Abhishekgarg97/crudapiforemp_js)
-2. 🎉 Merged PR[#14](https://github.com/Abhishekgarg97/crudapiforemp_js) in[/crudapiforemp_js](https://github.com/Abhishekgarg97/crudapiforemp_js)
-3. 💪 Opened PR[#13](https://github.com/Abhishekgarg97/portfolioforresume) in[/portfolioforresume](https://github.com/Abhishekgarg97/portfolioforresume)
-
-<!--END_SECTION:activity-->
