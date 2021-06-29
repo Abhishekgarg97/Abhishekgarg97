@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) 👋<img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat">
 ## <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+abhishekgarg!;npm+1+abhishekgarg;;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+abhishekgarg!;npm+i+abhishekgarg;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
 </p>
 
 <p>
