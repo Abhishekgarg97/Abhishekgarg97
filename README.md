@@ -42,17 +42,15 @@
 
 ![Abhishek Garg github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishekgarg97&theme=dracula)
 
-# Blog posts
---
 ## Technologies I have used
 
 <table >
-	<tr align="center">
-		<td >
-			<img src="/github/icons/nodejs.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/expressjs.png" width="60"/>
+<tr align="center">
+<td >
+<img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="60"/>
+</td>
+<td >
+<img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" width="60"/>
 		</td>
 		<td >
 			<img align="left" alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -74,8 +72,7 @@
       </td>
       <td>
          <img align="left" alt="Terminal" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-      </td>  
-     
+      </td>
 	</tr>
 	<tr align="center">
 		<td>Node.js</td>
@@ -111,15 +108,14 @@
    		   <td>
     		     <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  		     </td>
-
 	</tr>
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
 		<td>AWS S3</td>
 		<td>MongoDB</td>
-		td>SqlDB</td>
-		td>MysqlDB</td>
+				<td>SqlDB</td>
+						<td>MysqlDB</td>
 	</tr>
 </table>
 
