@@ -66,13 +66,7 @@
       <td>
          <img align="left" alt="JavaScript" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
       </td>
-      <td>
-         <img align="left" alt="SQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-      </td>
-      <td>
-         <img align="left" alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-      </td>
-      <td>
+           <td>
          <img align="left" alt="Git" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
       </td>
       <td>
@@ -111,12 +105,21 @@
 		<td >
 			<img src="/github/icons/mongodb.svg" width="60"/>
 		</td>
+		<td>
+ 		<img  width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+      		</td>
+   		   <td>
+    		     <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+ 		     </td>
+
 	</tr>
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
 		<td>AWS S3</td>
 		<td>MongoDB</td>
+		td>SqlDB</td>
+		td>MysqlDB</td>
 	</tr>
 </table>
 
