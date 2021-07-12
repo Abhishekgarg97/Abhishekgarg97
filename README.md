@@ -29,18 +29,18 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on [Node.js](https://github.com/Abhishekgarg97/crudapiforemp_js)
+- 🔭 I’m currently working on [Node.js](https://github.com/iamabhishekgarg/crudapiforemp_js)
 - 🌱 I’m currently learning Javascript  and Python
 - 💬 Ask me about HTMl, javascript,CSS and Django,PHP,Wordpress 
 - 📫 How to reach me:[@Abhishek Garg](https://iamabhishekgarg.tech/)
 
 </p>
 
-![Abhishek Garg Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhishekgarg97&show_icons=true&include_all_commits=true&theme=radical)
+![Abhishek Garg Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamabhishekgarg&show_icons=true&include_all_commits=true&theme=radical)
 
-![Abhishek Garg Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhishekgarg97&layout=compact&theme=radical)
+![Abhishek Garg Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamabhishekgarg&layout=compact&theme=radical)
 
-![Abhishek Garg github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishekgarg97&theme=dracula)
+![Abhishek Garg github activity graph](https://activity-graph.herokuapp.com/graph?username=iamabhishekgarg&theme=dracula)
 
 ## Technologies I have used
 
