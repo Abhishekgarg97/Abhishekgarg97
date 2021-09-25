@@ -1,4 +1,4 @@
-### align ='center' Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) </align><img  src="https://github.com/iamabhishekgarg/iamabhishekgarg/blob/main/github/mylogooriginal.png?raw=true" height="" width="300" alt="coding cat">
+### text-align ='center' Hi there, I'm [Abhishek garg](https://iamabhishekgarg.tech) </align><img  src="https://github.com/iamabhishekgarg/iamabhishekgarg/blob/main/github/mylogooriginal.png?raw=true" height="" width="300" alt="coding cat">
 <img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat">
 ## <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 <p align="center">
