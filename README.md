@@ -129,4 +129,4 @@
 
 ---
 
-## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.tech/#portfolio)
+## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.in)
