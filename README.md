@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on [Node.js](https://github.com/iamabhishekgarg/crudapiforemp_js)
 - 🌱 I’m currently learning Javascript  and Python
 - 💬 Ask me about HTMl, javascript,CSS and Django,PHP,Wordpress 
-- 📫 How to reach me:[@Abhishek Garg](https://iamabhishekgarg.tech/)
+- 📫 How to reach me:[@Abhishek Garg](https://iamabhishekgarg.in/)
 
 </p>
 
